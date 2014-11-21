@@ -1646,7 +1646,6 @@ amenorrhoea
 amens
 america
 american
-American Samoa
 americans
 americium
 amethyst
@@ -2110,7 +2109,7 @@ antifreeze
 antigen
 antigenic
 antigens
-Antigua and Barbuda
+Antigua
 antihistamines
 antilope
 antimatter
@@ -2795,7 +2794,7 @@ ashbins
 ashcans
 ashen
 ashes
-Ashmore and Cartier Islands
+Ashmore
 ashore
 ashtray
 ashtrays
@@ -3659,7 +3658,7 @@ baguette
 baguettes
 bah
 bahamas
-Bahamas, The
+Bahamas
 Bahrain
 bail
 bailed
@@ -4026,7 +4025,7 @@ basque
 basrelief
 basreliefs
 bass
-Bassas da India
+Bassas
 basses
 bassist
 bassoon
@@ -5660,7 +5659,7 @@ borrows
 borstal
 borstals
 bosnia
-Bosnia and Herzegovina
+Bosnia
 bosom
 bosoms
 boson
@@ -5753,7 +5752,7 @@ bout
 boutique
 boutiques
 bouts
-Bouvet Island
+Bouvet
 bovine
 bow
 bowdlerisation
@@ -6147,8 +6146,8 @@ bristly
 brit
 britain
 british
-British Indian Ocean Territory
-British Virgin Islands
+British
+British
 britons
 brittle
 brittleness
@@ -6555,7 +6554,7 @@ burial
 burials
 buried
 buries
-Burkina Faso
+Burkina
 burlesque
 burlesquing
 burlier
@@ -7105,7 +7104,7 @@ capacitors
 capacity
 caparisoned
 cape
-Cape Verde
+Cape
 caped
 caper
 capered
@@ -7614,7 +7613,7 @@ cavorts
 caw
 cawing
 cayman
-Cayman Islands
+Cayman
 caymans
 cease
 ceased
@@ -7704,7 +7703,7 @@ centimetres
 centipede
 centipedes
 central
-Central African Republic
+Central
 centralisation
 centralise
 centralised
@@ -8384,7 +8383,7 @@ christened
 christening
 christenings
 christian
-Christmas Island
+Christmas
 chroma
 chromatic
 chromaticism
@@ -8845,7 +8844,7 @@ clipboards
 clipped
 clipper
 clippers
-Clipperton Island
+Clipperton
 clipping
 clippings
 clips
@@ -9106,7 +9105,7 @@ coconuts
 cocoon
 cocooned
 cocoons
-Cocos (Keeling) Islands
+Cocos
 cod
 coda
 coddle
@@ -10169,8 +10168,6 @@ conglomerated
 conglomerates
 conglomeration
 congo
-Congo, Democratic Republic of the
-Congo, Republic of the
 congratulate
 congratulated
 congratulates
@@ -10803,7 +10800,7 @@ coo
 cooed
 cooing
 cook
-Cook Islands
+Cook
 cookbook
 cookbooks
 cooked
@@ -10904,7 +10901,7 @@ coquettishly
 cor
 coracle
 coral
-Coral Sea Islands
+Coral
 coralline
 corals
 cord
@@ -11103,7 +11100,7 @@ cosset
 cosseted
 cossets
 cost
-Costa Rica
+Costa
 costar
 costarred
 costarring
@@ -11127,7 +11124,6 @@ costumed
 costumes
 cosy
 cot
-Cote d'Ivoire
 coterie
 coterminous
 cots
@@ -12252,7 +12248,7 @@ cytotoxic
 czar
 czars
 czech
-Czech Republic
+Czech
 czechs
 dab
 dabbed
@@ -15296,7 +15292,7 @@ domineer
 domineered
 domineering
 Dominica
-Dominican Republic
+Dominican
 dominion
 dominions
 domino
@@ -16407,7 +16403,7 @@ ejects
 eke
 eked
 eking
-El Salvador
+ElSalvador
 elaborate
 elaborated
 elaborately
@@ -17521,7 +17517,7 @@ equation
 equations
 equator
 equatorial
-Equatorial Guinea
+Equatorial
 equerry
 equestrian
 equestrianism
@@ -17826,7 +17822,7 @@ eurasian
 eureka
 eurekas
 euro
-Europa Island
+Europa
 europe
 european
 eurydice
@@ -18776,7 +18772,7 @@ falcon
 falconer
 falconry
 falcons
-Falkland Islands (Islas Malvinas)
+Falkland
 fall
 fallacies
 fallacious
@@ -18895,7 +18891,7 @@ farmstead
 farmsteads
 farmyard
 farmyards
-Faroe Islands
+Faroe
 faroff
 farout
 farrago
@@ -20757,9 +20753,6 @@ freighter
 freighters
 freights
 french
-French Guiana
-French Polynesia
-French Southern and Antarctic Lands
 frenetic
 frenetically
 frenzied
@@ -21297,7 +21290,7 @@ galvanising
 galvanometer
 galvanometric
 gambia
-Gambia, The
+Gambia
 gambian
 gambit
 gambits
@@ -21514,7 +21507,7 @@ gawpin
 gay
 gayest
 gays
-Gaza Strip
+Gaza
 gaze
 gazebo
 gazed
@@ -22028,7 +22021,7 @@ glorified
 glorifies
 glorify
 glorifying
-Glorioso Islands
+Glorioso
 glorious
 gloriously
 glory
@@ -23719,7 +23712,7 @@ heaps
 hear
 hearable
 heard
-Heard Island and McDonald Islands
+Heard
 hearer
 hearers
 hearing
@@ -24387,7 +24380,7 @@ holography
 holster
 holsters
 holy
-Holy See (Vatican City)
+Holy
 homage
 homages
 hombre
@@ -24476,7 +24469,6 @@ honeymooners
 honeymoons
 honeysuckle
 honeysuckles
-Hong Kong
 honing
 honk
 honking
@@ -27687,7 +27679,6 @@ islander
 islanders
 islands
 isle
-Isle of Man
 isles
 islet
 islets
@@ -27851,7 +27842,6 @@ james
 jammed
 jamming
 jams
-Jan Mayen
 jangle
 jangled
 jangling
@@ -28131,7 +28121,7 @@ joyriding
 joys
 joystick
 joysticks
-Juan de Nova Island
+juan
 jubilant
 jubilantly
 jubilate
@@ -28612,8 +28602,6 @@ kongo
 kookaburra
 koran
 korea
-Korea, North
-Korea, South
 korean
 koreans
 kosher
@@ -31076,7 +31064,7 @@ mars
 marsala
 marsh
 marshal
-Marshall Islands
+Marshall
 marshalled
 marshaller
 marshalling
@@ -31863,7 +31851,7 @@ micrometer
 micrometers
 micrometres
 micron
-Micronesia, Federated States of
+Micronesia
 microns
 microorganism
 microorganisms
@@ -33611,7 +33599,7 @@ nautical
 nautili
 nautilus
 naval
-Navassa Island
+Navassa
 nave
 navel
 navels
@@ -33808,7 +33796,7 @@ net
 netball
 nether
 Netherlands
-Netherlands Antilles
+Netherlands
 nethermost
 nets
 nett
@@ -33871,8 +33859,6 @@ never
 neverending
 nevertheless
 new
-New Caledonia
-New Zealand
 newborn
 newcomer
 newcomers
@@ -34137,7 +34123,7 @@ nor
 noradrenalin
 noradrenaline
 nordic
-Norfolk Island
+Norfolk
 norm
 normal
 normalcy
@@ -34164,7 +34150,6 @@ north
 northbound
 northerly
 northern
-Northern Mariana Islands
 northerner
 northerners
 northernmost
@@ -36095,7 +36080,6 @@ papist
 pappy
 paprika
 papua
-Papua New Guinea
 papule
 papyri
 papyrus
@@ -36107,7 +36091,7 @@ parabolas
 parabolic
 paraboloid
 paraboloids
-Paracel Islands
+Paracel
 paracetamol
 parachute
 parachuted
@@ -37724,7 +37708,7 @@ piston
 pistons
 pit
 pitbull
-Pitcairn Islands
+Pitcairn
 pitch
 pitchdark
 pitched
@@ -40044,7 +40028,7 @@ puddles
 puerile
 puerility
 puerperal
-Puerto Rico
+Puerto
 puff
 puffballs
 puffed
@@ -44404,11 +44388,6 @@ sailor
 sailors
 sails
 saint
-Saint Helena
-Saint Kitts and Nevis
-Saint Lucia
-Saint Pierre and Miquelon
-Saint Vincent and the Grenadines
 sainted
 sainthood
 saintlier
@@ -44520,7 +44499,6 @@ sampling
 samplings
 samurai
 san
-San Marino
 sanatorium
 sanctification
 sanctified
@@ -44585,7 +44563,7 @@ sank
 sanserif
 sanskrit
 santiago
-Sao Tome and Principe
+Sao
 sap
 sapient
 sapling
@@ -44683,7 +44661,6 @@ saucily
 sauciness
 saucy
 saudi
-Saudi Arabia
 saudis
 sauerkraut
 sauna
@@ -45733,7 +45710,7 @@ seraphic
 seraphically
 seraphim
 seraphs
-Serbia and Montenegro
+Serbia
 serenade
 serenader
 serenades
@@ -46539,7 +46516,7 @@ siege
 sieges
 sienna
 sierra
-Sierra Leone
+Sierra
 siesta
 siestas
 sieve
@@ -47814,7 +47791,7 @@ solo
 soloing
 soloist
 soloists
-Solomon Islands
+Solomon
 solstice
 solstices
 solubility
@@ -48008,8 +47985,6 @@ sourness
 sours
 soused
 south
-South Africa
-South Georgia and the South Sandwich Islands
 southbound
 southerly
 southern
@@ -48546,7 +48521,7 @@ spraining
 sprains
 sprang
 sprat
-Spratly Islands
+Spratly
 sprats
 sprawl
 sprawled
@@ -48738,7 +48713,7 @@ squirt
 squirted
 squirting
 squirts
-Sri Lanka
+SriLanka
 srilanka
 stab
 stabbed
@@ -53374,7 +53349,6 @@ trimmings
 trimodal
 trims
 trinidad
-Trinidad and Tobago
 trinity
 trinket
 trinkets
@@ -53448,7 +53422,7 @@ trombone
 trombones
 trombonist
 trombonists
-Tromelin Island
+Tromelin
 troop
 trooped
 trooper
@@ -53705,7 +53679,7 @@ turkeys
 turkish
 Turkmenistan
 turks
-Turks and Caicos Islands
+Turks
 turmeric
 turmoil
 turmoils
@@ -54894,9 +54868,6 @@ unit
 unitary
 unite
 united
-United Arab Emirates
-United Kingdom
-United States
 unites
 unities
 uniting
@@ -56421,7 +56392,6 @@ virago
 viral
 virgil
 virgin
-Virgin Islands
 virginal
 virginia
 virginity
@@ -56732,7 +56702,6 @@ waivers
 waives
 waiving
 wake
-Wake Island
 waked
 wakeful
 wakefulness
@@ -56768,7 +56737,7 @@ wallets
 wallflower
 wallflowers
 walling
-Wallis and Futuna
+Wallis
 wallop
 wallow
 wallowed
@@ -57312,11 +57281,9 @@ weren't
 werewolf
 werewolves
 west
-West Bank
 westbound
 westerly
 western
-Western Sahara
 westerner
 westerners
 westernisation
