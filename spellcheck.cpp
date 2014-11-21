@@ -7,13 +7,12 @@
 
 using namespace std;
 
-MySpellCheckDictionary loadDictionary(char* dictionaryName);
+void loadDictionary();
 
 int main(int argc, char* argv[]){
-	char dictfile[] = "words.txt";
-	MySpellCheckDictionary hashDictionary = loadDictionary(dictfile);
+	loadDictionary();
 	
-	hashDictionary.printDictionary();
+	// hashDictionary.printDictionary();
 	
 	// if(argc > 1){
 		// FILE * fileToSpellCheck;
@@ -41,36 +40,18 @@ int main(int argc, char* argv[]){
 	
 }
 
-MySpellCheckDictionary loadDictionary(char* dictionaryName){
+void loadDictionary(){
 	MySpellCheckDictionary hashDictionary;
-	
-	FILE * dictionaryOfTheEnglishLanguage;
-	cout<<dictionaryName<<"***"<<endl;
-	dictionaryOfTheEnglishLanguage = fopen(dictionaryName,"r");
-	
-	while(!feof(dictionaryOfTheEnglishLanguage)){
-		char * word;
-		fscanf(dictionaryOfTheEnglishLanguage,"%s", word);
-		string wordStr(word);
-		hashDictionary.addToDictionary(wordStr);
+
+	FILE * in;
+	in = fopen("words.txt", "r");
+
+	while(!feof(in)){
+		char * temp;
+		fscanf(in, "%s", temp); //Discovered that this is throwing 'std::bad_alloc'
+		string str(temp);
+		hashDictionary.addToDictionary(str);
 	}
-	
-	fclose(dictionaryOfTheEnglishLanguage);
-	
-	return hashDictionary;
+
+	fclose(in);
 }
-
-
-
-	// FILE * in;
-	// in = fopen("words.txt","r");
-	// MySpellCheckDictionary dic;
-	// while(!feof(in)){
-		// char * temp;
-		// fscanf(in,"%s", temp);
-		
-		// string str(temp);
-		
-		// dic.addToDictionary(str);
-	// }
-	// fclose(in);
