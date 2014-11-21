@@ -1004,7 +1004,7 @@ affronted
 affronts
 afghan
 afghani
-Afghanistan
+afghanistan
 afghans
 afield
 afire
@@ -1252,7 +1252,7 @@ aitches
 ajar
 akimbo
 akin
-Akrotiri
+akrotiri
 ala
 alabama
 alabaster
@@ -1273,7 +1273,7 @@ alaska
 alaskan
 alb
 albania
-Albania
+albania
 albany
 albatross
 albatrosses
@@ -1323,7 +1323,7 @@ algebraically
 algebraist
 algebras
 algeria
-Algeria
+algeria
 algerian
 algiers
 algorithm
@@ -1844,7 +1844,7 @@ ancillary
 and
 andante
 andes
-Andorra
+andorra
 andrew
 androgynous
 android
@@ -1885,7 +1885,7 @@ anglian
 anglican
 angling
 angola
-Angola
+angola
 angolan
 angolans
 angora
@@ -1896,7 +1896,7 @@ angrily
 angry
 angst
 angstroms
-Anguilla
+anguilla
 anguish
 anguished
 anguishes
@@ -2037,7 +2037,7 @@ antagonisms
 antagonist
 antagonistic
 antagonists
-Antarctica
+antarctica
 ante
 anteater
 anteaters
@@ -2109,7 +2109,7 @@ antifreeze
 antigen
 antigenic
 antigens
-Antigua
+antigua
 antihistamines
 antilope
 antimatter
@@ -2561,7 +2561,7 @@ arenas
 arent
 aren't
 argent
-Argentina
+argentina
 argon
 argot
 arguable
@@ -2614,7 +2614,7 @@ armchair
 armchairs
 armed
 armenia
-Armenia
+armenia
 armful
 armfuls
 armhole
@@ -2750,7 +2750,7 @@ arts
 artwork
 artworks
 arty
-Aruba
+aruba
 arum
 as
 asbestos
@@ -2794,7 +2794,7 @@ ashbins
 ashcans
 ashen
 ashes
-Ashmore
+ashmore
 ashore
 ashtray
 ashtrays
@@ -3266,10 +3266,10 @@ austere
 austerely
 austerity
 austral
-Australia
+australia
 australian
 austria
-Austria
+austria
 autarchy
 auteur
 authentic
@@ -3489,7 +3489,7 @@ aye
 ayurvedic
 azalea
 azaleas
-Azerbaijan
+azerbaijan
 azimuth
 azimuthal
 azores
@@ -3658,8 +3658,8 @@ baguette
 baguettes
 bah
 bahamas
-Bahamas
-Bahrain
+bahamas
+bahrain
 bail
 bailed
 bailiff
@@ -3799,7 +3799,7 @@ banger
 bangers
 banging
 bangkok
-Bangladesh
+bangladesh
 bangle
 bangles
 bangs
@@ -3859,7 +3859,7 @@ baptist
 baptists
 bar
 barb
-Barbados
+barbados
 barbarian
 barbarians
 barbaric
@@ -4025,7 +4025,7 @@ basque
 basrelief
 basreliefs
 bass
-Bassas
+bassas
 basses
 bassist
 bassoon
@@ -4428,7 +4428,7 @@ bejewel
 bejewelled
 bel
 belabour
-Belarus
+belarus
 belated
 belatedly
 belatedness
@@ -4446,7 +4446,7 @@ belfry
 belgian
 belgians
 belgium
-Belgium
+belgium
 belgrade
 belie
 belied
@@ -4467,7 +4467,7 @@ belittle
 belittled
 belittles
 belittling
-Belize
+belize
 bell
 belladonna
 bellbottoms
@@ -4552,7 +4552,7 @@ benightedly
 benign
 benignity
 benignly
-Benin
+benin
 benjamin
 bent
 benzene
@@ -4578,7 +4578,7 @@ berk
 berlin
 berliner
 bermuda
-Bermuda
+bermuda
 bern
 berries
 berry
@@ -4684,7 +4684,7 @@ bewitch
 bewitched
 bewitching
 beyond
-Bhutan
+bhutan
 biannual
 bias
 biased
@@ -5463,7 +5463,7 @@ bole
 bolero
 boleyn
 bolivia
-Bolivia
+bolivia
 bollard
 bollards
 bologna
@@ -5659,7 +5659,7 @@ borrows
 borstal
 borstals
 bosnia
-Bosnia
+bosnia
 bosom
 bosoms
 boson
@@ -5690,7 +5690,7 @@ bothers
 bothersome
 bothy
 botswana
-Botswana
+botswana
 bottle
 bottled
 bottlefed
@@ -5752,7 +5752,7 @@ bout
 boutique
 boutiques
 bouts
-Bouvet
+bouvet
 bovine
 bow
 bowdlerisation
@@ -5932,7 +5932,7 @@ brazenness
 brazier
 braziers
 brazil
-Brazil
+brazil
 brazing
 breach
 breached
@@ -6146,8 +6146,8 @@ bristly
 brit
 britain
 british
-British
-British
+british
+british
 britons
 brittle
 brittleness
@@ -6271,7 +6271,7 @@ bruising
 brunch
 brunches
 brunei
-Brunei
+brunei
 brunet
 brunets
 brunette
@@ -6408,7 +6408,7 @@ bulb
 bulbous
 bulbs
 bulgaria
-Bulgaria
+bulgaria
 bulge
 bulged
 bulges
@@ -6554,14 +6554,14 @@ burial
 burials
 buried
 buries
-Burkina
+burkina
 burlesque
 burlesquing
 burlier
 burliest
 burly
 burma
-Burma
+burma
 burmese
 burn
 burned
@@ -6592,7 +6592,7 @@ bursted
 bursting
 bursts
 burundi
-Burundi
+burundi
 bury
 burying
 bus
@@ -6916,7 +6916,7 @@ cam
 camaraderie
 camber
 cambodia
-Cambodia
+cambodia
 camcorder
 camcorders
 came
@@ -6931,7 +6931,7 @@ cameramen
 cameras
 camerawork
 cameron
-Cameroon
+cameroon
 camisole
 camomile
 camouflage
@@ -6966,7 +6966,7 @@ camshaft
 can
 canaan
 canada
-Canada
+canada
 canadian
 canal
 canalisation
@@ -7104,7 +7104,7 @@ capacitors
 capacity
 caparisoned
 cape
-Cape
+cape
 caped
 caper
 capered
@@ -7613,7 +7613,7 @@ cavorts
 caw
 cawing
 cayman
-Cayman
+cayman
 caymans
 cease
 ceased
@@ -7703,7 +7703,7 @@ centimetres
 centipede
 centipedes
 central
-Central
+central
 centralisation
 centralise
 centralised
@@ -7789,7 +7789,7 @@ cetacean
 ceylon
 chacha
 chad
-Chad
+chad
 chafe
 chafed
 chafes
@@ -8212,7 +8212,7 @@ childly
 childminders
 childproof
 children
-Chile
+chile
 chilean
 chili
 chill
@@ -8245,7 +8245,7 @@ chimpanzees
 chimps
 chin
 china
-China
+china
 chinese
 chink
 chinked
@@ -8383,7 +8383,7 @@ christened
 christening
 christenings
 christian
-Christmas
+christmas
 chroma
 chromatic
 chromaticism
@@ -8844,7 +8844,7 @@ clipboards
 clipped
 clipper
 clippers
-Clipperton
+clipperton
 clipping
 clippings
 clips
@@ -9105,7 +9105,7 @@ coconuts
 cocoon
 cocooned
 cocoons
-Cocos
+cocos
 cod
 coda
 coddle
@@ -9340,7 +9340,7 @@ colluding
 collusion
 colobus
 cologne
-Colombia
+colombia
 colon
 colonel
 colonels
@@ -9603,7 +9603,7 @@ commuter
 commuters
 commutes
 commuting
-Comoros
+comoros
 compact
 compacted
 compacting
@@ -10800,7 +10800,7 @@ coo
 cooed
 cooing
 cook
-Cook
+cook
 cookbook
 cookbooks
 cooked
@@ -10901,7 +10901,7 @@ coquettishly
 cor
 coracle
 coral
-Coral
+coral
 coralline
 corals
 cord
@@ -11100,7 +11100,7 @@ cosset
 cosseted
 cossets
 cost
-Costa
+costa
 costar
 costarred
 costarring
@@ -11667,7 +11667,7 @@ croakiest
 croaking
 croaks
 croatia
-Croatia
+croatia
 croatian
 crochet
 crocheted
@@ -11911,7 +11911,7 @@ crystallography
 crystals
 cub
 cuba
-Cuba
+cuba
 cuban
 cubans
 cube
@@ -12230,7 +12230,7 @@ cyprians
 cypriot
 cypriots
 cyprus
-Cyprus
+cyprus
 cyst
 cysteine
 cystic
@@ -12248,7 +12248,7 @@ cytotoxic
 czar
 czars
 czech
-Czech
+czech
 czechs
 dab
 dabbed
@@ -13316,7 +13316,7 @@ denims
 denizen
 denizens
 denmark
-Denmark
+denmark
 denominated
 denomination
 denominational
@@ -13910,7 +13910,7 @@ dextral
 dextrose
 dextrous
 dextrously
-Dhekelia
+dhekelia
 dhow
 diabetes
 diabetic
@@ -15144,7 +15144,7 @@ dizziness
 dizzy
 dizzying
 dizzyingly
-Djibouti
+djibouti
 do
 doberman
 doc
@@ -15291,8 +15291,8 @@ domination
 domineer
 domineered
 domineering
-Dominica
-Dominican
+dominica
+dominican
 dominion
 dominions
 domino
@@ -16214,7 +16214,7 @@ ecstatically
 ectopic
 ectoplasm
 ecuador
-Ecuador
+ecuador
 ecumenical
 ecumenically
 ecumenism
@@ -16366,7 +16366,7 @@ egress
 egret
 egrets
 egypt
-Egypt
+egypt
 egyptian
 eh
 eider
@@ -16403,7 +16403,7 @@ ejects
 eke
 eked
 eking
-ElSalvador
+elsalvador
 elaborate
 elaborated
 elaborately
@@ -17517,7 +17517,7 @@ equation
 equations
 equator
 equatorial
-Equatorial
+equatorial
 equerry
 equestrian
 equestrianism
@@ -17591,7 +17591,7 @@ ergs
 erica
 ericas
 eritrea
-Eritrea
+eritrea
 ermine
 erode
 eroded
@@ -17732,7 +17732,7 @@ estimations
 estimator
 estimators
 estonia
-Estonia
+estonia
 estranged
 estrangement
 estrangements
@@ -17764,7 +17764,7 @@ ethically
 ethicist
 ethics
 ethiopia
-Ethiopia
+ethiopia
 ethnic
 ethnical
 ethnically
@@ -17822,7 +17822,7 @@ eurasian
 eureka
 eurekas
 euro
-Europa
+europa
 europe
 european
 eurydice
@@ -18772,7 +18772,7 @@ falcon
 falconer
 falconry
 falcons
-Falkland
+falkland
 fall
 fallacies
 fallacious
@@ -18891,7 +18891,7 @@ farmstead
 farmsteads
 farmyard
 farmyards
-Faroe
+faroe
 faroff
 farout
 farrago
@@ -19380,7 +19380,7 @@ figurine
 figurines
 figuring
 fiji
-Fiji
+fiji
 fijians
 filament
 filamentary
@@ -19503,7 +19503,7 @@ finite
 finitely
 finiteness
 finland
-Finland
+finland
 finn
 finned
 finnish
@@ -20657,7 +20657,7 @@ frameworks
 framing
 franc
 france
-France
+france
 franchise
 franchised
 franchisee
@@ -21201,7 +21201,7 @@ gable
 gabled
 gables
 gabon
-Gabon
+gabon
 gad
 gadded
 gadding
@@ -21290,7 +21290,7 @@ galvanising
 galvanometer
 galvanometric
 gambia
-Gambia
+gambia
 gambian
 gambit
 gambits
@@ -21507,7 +21507,7 @@ gawpin
 gay
 gayest
 gays
-Gaza
+gaza
 gaze
 gazebo
 gazed
@@ -21689,7 +21689,7 @@ geophysics
 geopolitical
 george
 georgia
-Georgia
+georgia
 geoscientific
 geostationary
 geosynchronous
@@ -21707,7 +21707,7 @@ germanic
 germanium
 germans
 germany
-Germany
+germany
 germicidal
 germicides
 germinal
@@ -21750,7 +21750,7 @@ getting
 geyser
 geysers
 ghana
-Ghana
+ghana
 ghanian
 ghastlier
 ghastliest
@@ -21788,7 +21788,7 @@ gibbous
 gibed
 gibes
 giblets
-Gibraltar
+gibraltar
 giddier
 giddiest
 giddily
@@ -22021,7 +22021,7 @@ glorified
 glorifies
 glorify
 glorifying
-Glorioso
+glorioso
 glorious
 gloriously
 glory
@@ -22550,7 +22550,7 @@ greatly
 greatness
 grecian
 greece
-Greece
+greece
 greed
 greedier
 greediest
@@ -22579,7 +22579,7 @@ greenhouses
 greenie
 greening
 greenish
-Greenland
+greenland
 greenly
 greenness
 greens
@@ -22596,7 +22596,7 @@ gregariously
 gregariousness
 gremlin
 gremlins
-Grenada
+grenada
 grenade
 grenades
 grenadier
@@ -22826,8 +22826,8 @@ grunter
 grunting
 grunts
 guacamole
-Guadeloupe
-Guam
+guadeloupe
+guam
 guanaco
 guanine
 guano
@@ -22850,14 +22850,14 @@ guardroom
 guards
 guardsman
 guardsmen
-Guatemala
+guatemala
 guava
 guavas
 gubernatorial
 gudgeon
 guerilla
 guerillas
-Guernsey
+guernsey
 guerrilla
 guerrillas
 guess
@@ -22906,8 +22906,8 @@ guiltless
 guilts
 guilty
 guinea
-Guinea
-Guinea-Bissau
+guinea
+guinea-bissau
 guineas
 guise
 guises
@@ -23010,7 +23010,7 @@ gutting
 guttural
 gutturally
 guy
-Guyana
+guyana
 guys
 guzzle
 guzzled
@@ -23153,7 +23153,7 @@ hairstyles
 hairstyling
 hairy
 haiti
-Haiti
+haiti
 haitian
 hake
 hakea
@@ -23712,7 +23712,7 @@ heaps
 hear
 hearable
 heard
-Heard
+heard
 hearer
 hearers
 hearing
@@ -24380,7 +24380,7 @@ holography
 holster
 holsters
 holy
-Holy
+holy
 homage
 homages
 hombre
@@ -24450,7 +24450,7 @@ homotopy
 homozygous
 homunculus
 homy
-Honduras
+honduras
 hone
 honed
 hones
@@ -24854,7 +24854,7 @@ hundredweight
 hundredweights
 hung
 hungary
-Hungary
+hungary
 hunger
 hungered
 hungering
@@ -25111,7 +25111,7 @@ icecold
 icecream
 iced
 iceland
-Iceland
+iceland
 iceman
 icepack
 icepick
@@ -25143,7 +25143,7 @@ icosahedral
 icosahedron
 icy
 id
-I'd
+i'd
 idaho
 idea
 ideal
@@ -25223,7 +25223,7 @@ idolise
 idolised
 idols
 ids
-I'd've
+i'd've
 idyll
 idyllic
 idyllically
@@ -25260,7 +25260,7 @@ ileum
 iliad
 ilk
 ill
-I'll
+i'll
 illadvised
 illbehaved
 illconceived
@@ -25323,10 +25323,10 @@ illustrative
 illustrator
 illustrators
 illustrious
-I'll've
+i'll've
 ilmenite
 im
-I'm
+i'm
 image
 imaged
 imagery
@@ -26108,7 +26108,7 @@ indexers
 indexes
 indexing
 india
-India
+india
 indian
 indiana
 indians
@@ -26197,7 +26197,7 @@ indolence
 indolent
 indolently
 indomitable
-Indonesia
+indonesia
 indoor
 indoors
 indorsed
@@ -27548,11 +27548,11 @@ ions
 iota
 iotas
 iran
-Iran
+iran
 iranian
 iranians
 iraq
-Iraq
+iraq
 iraqi
 iraqis
 irascibility
@@ -27561,7 +27561,7 @@ irascibly
 irate
 ire
 ireland
-Ireland
+ireland
 iridescence
 iridescent
 iridium
@@ -27720,7 +27720,7 @@ isotropic
 isotropically
 isotropy
 israel
-Israel
+israel
 israeli
 israelis
 issuable
@@ -27742,7 +27742,7 @@ italicise
 italicised
 italics
 italy
-Italy
+italy
 itch
 itched
 itches
@@ -27778,7 +27778,7 @@ its
 it's
 itself
 ive
-I've
+i've
 ivies
 ivories
 ivory
@@ -27833,7 +27833,7 @@ jakarta
 jalopy
 jam
 jamaica
-Jamaica
+jamaica
 jamaican
 jamb
 jamboree
@@ -27852,7 +27852,7 @@ january
 janus
 jap
 japan
-Japan
+japan
 jape
 japes
 japonica
@@ -27938,7 +27938,7 @@ jerkins
 jerks
 jerky
 jersey
-Jersey
+jersey
 jerseys
 jest
 jested
@@ -28064,7 +28064,7 @@ jolting
 jolts
 jonah
 jonathan
-Jordan
+jordan
 joseph
 joshua
 jostle
@@ -28283,7 +28283,7 @@ karst
 katydid
 kayak
 kayaks
-Kazakhstan
+kazakhstan
 kebab
 kebabs
 kedgeree
@@ -28320,7 +28320,7 @@ kennels
 kent
 kentucky
 kenya
-Kenya
+kenya
 kenyan
 kept
 keratin
@@ -28475,7 +28475,7 @@ kiosk
 kiosks
 kipper
 kippers
-Kiribati
+kiribati
 kirk
 kismet
 kiss
@@ -28616,10 +28616,10 @@ kudu
 kudus
 kungfu
 kuwait
-Kuwait
+kuwait
 kwacha
 kwachas
-Kyrgyzstan
+kyrgyzstan
 laager
 lab
 label
@@ -28851,7 +28851,7 @@ lantern
 lanterns
 lanyard
 laos
-Laos
+laos
 lap
 lapdog
 lapdogs
@@ -28963,7 +28963,7 @@ lattice
 latticed
 lattices
 latvia
-Latvia
+latvia
 latvian
 laud
 laudable
@@ -29163,7 +29163,7 @@ leaves
 leaving
 leavings
 lebanon
-Lebanon
+lebanon
 lebensraum
 lecher
 lecherous
@@ -29352,7 +29352,7 @@ lesbians
 lesion
 lesions
 lesotho
-Lesotho
+lesotho
 less
 lessee
 lessees
@@ -29472,7 +29472,7 @@ liberationists
 liberator
 liberators
 liberia
-Liberia
+liberia
 libero
 libertarian
 libertarianism
@@ -29496,7 +29496,7 @@ librettist
 librettists
 libretto
 libya
-Libya
+libya
 libyan
 libyans
 lice
@@ -29529,7 +29529,7 @@ lidless
 lido
 lids
 lie
-Liechtenstein
+liechtenstein
 lied
 lieder
 lien
@@ -29845,7 +29845,7 @@ lithological
 lithologies
 lithology
 lithosphere
-Lithuania
+lithuania
 litigant
 litigants
 litigate
@@ -30423,7 +30423,7 @@ lute
 lutes
 luther
 lux
-Luxembourg
+luxembourg
 luxor
 luxuriance
 luxuriant
@@ -30475,11 +30475,11 @@ macaques
 macaroni
 macaroon
 macaroons
-Macau
+macau
 macaw
 macaws
 mace
-Macedonia
+macedonia
 maces
 machete
 machetes
@@ -30513,7 +30513,7 @@ macrophages
 macroscopic
 macroscopically
 mad
-Madagascar
+madagascar
 madam
 madame
 madams
@@ -30695,16 +30695,16 @@ malaria
 malarial
 malathion
 malawi
-Malawi
+malawi
 malay
 malayan
 malays
 malaysia
-Malaysia
+malaysia
 malcontent
 malcontents
 maldives
-Maldives
+maldives
 male
 malefaction
 malefactions
@@ -30722,7 +30722,7 @@ malfunction
 malfunctioned
 malfunctioning
 malfunctions
-Mali
+mali
 malice
 malices
 malicious
@@ -30757,7 +30757,7 @@ malpractice
 malpractices
 malt
 malta
-Malta
+malta
 malted
 maltese
 malting
@@ -31064,7 +31064,7 @@ mars
 marsala
 marsh
 marshal
-Marshall
+marshall
 marshalled
 marshaller
 marshalling
@@ -31091,7 +31091,7 @@ martinet
 martingale
 martingales
 martini
-Martinique
+martinique
 martins
 martyr
 martyrdom
@@ -31292,8 +31292,8 @@ maulers
 mauling
 mauls
 maumau
-Mauritania
-Mauritius
+mauritania
+mauritius
 mausoleum
 mausoleums
 mauve
@@ -31334,7 +31334,7 @@ mayoral
 mayoralty
 mayoress
 mayors
-Mayotte
+mayotte
 maypole
 maze
 mazes
@@ -31806,7 +31806,7 @@ mews
 mexican
 mexicans
 mexico
-Mexico
+mexico
 mezzanine
 mezzosoprano
 miami
@@ -31851,7 +31851,7 @@ micrometer
 micrometers
 micrometres
 micron
-Micronesia
+micronesia
 microns
 microorganism
 microorganisms
@@ -32625,7 +32625,7 @@ molarity
 molars
 molasses
 mold
-Moldova
+moldova
 molds
 moldy
 mole
@@ -32662,7 +32662,7 @@ moments
 momentum
 moms
 monaco
-Monaco
+monaco
 monadic
 monalisa
 monarch
@@ -32693,7 +32693,7 @@ moneys
 monger
 mongers
 mongol
-Mongolia
+mongolia
 mongols
 mongoose
 mongrel
@@ -32793,7 +32793,7 @@ monthlies
 monthly
 months
 montreal
-Montserrat
+montserrat
 monument
 monumental
 monumentally
@@ -32883,7 +32883,7 @@ mornings
 morns
 moroccan
 morocco
-Morocco
+morocco
 moron
 moronic
 morons
@@ -33108,7 +33108,7 @@ mowers
 mowing
 mown
 mows
-Mozambique
+mozambique
 mozart
 mr
 mrs
@@ -33478,7 +33478,7 @@ names
 namesake
 namesakes
 namibia
-Namibia
+namibia
 namibian
 naming
 namings
@@ -33586,7 +33586,7 @@ naughtily
 naughtiness
 naughts
 naughty
-Nauru
+nauru
 nausea
 nauseate
 nauseated
@@ -33599,7 +33599,7 @@ nautical
 nautili
 nautilus
 naval
-Navassa
+navassa
 nave
 navel
 navels
@@ -33765,7 +33765,7 @@ neoplasm
 neoplasms
 neoprene
 nepal
-Nepal
+nepal
 nephew
 nephews
 nephritis
@@ -33795,8 +33795,8 @@ nests
 net
 netball
 nether
-Netherlands
-Netherlands
+netherlands
+netherlands
 nethermost
 nets
 nett
@@ -33913,7 +33913,7 @@ nibblers
 nibbles
 nibbling
 nibs
-Nicaragua
+nicaragua
 nice
 nicely
 niceness
@@ -33937,9 +33937,9 @@ nieces
 niftily
 nifty
 niger
-Niger
+niger
 nigeria
-Nigeria
+nigeria
 niggardly
 niggle
 niggled
@@ -34011,7 +34011,7 @@ nitroglycerine
 nitrous
 nits
 nitwit
-Niue
+niue
 nixon
 no
 noah
@@ -34123,7 +34123,7 @@ nor
 noradrenalin
 noradrenaline
 nordic
-Norfolk
+norfolk
 norm
 normal
 normalcy
@@ -34157,7 +34157,7 @@ northmen
 northward
 northwards
 norway
-Norway
+norway
 nose
 nosed
 nosedive
@@ -34776,7 +34776,7 @@ olympian
 olympic
 olympics
 olympus
-Oman
+oman
 ombudsman
 ombudsmen
 omega
@@ -35893,7 +35893,7 @@ pairwise
 pajama
 pajamas
 pakistan
-Pakistan
+pakistan
 pal
 palace
 palaces
@@ -35911,7 +35911,7 @@ palates
 palatial
 palatinate
 palatine
-Palau
+palau
 palaver
 pale
 paled
@@ -35984,7 +35984,7 @@ panacea
 panaceas
 panache
 panama
-Panama
+panama
 pancake
 pancaked
 pancakes
@@ -36091,7 +36091,7 @@ parabolas
 parabolic
 paraboloid
 paraboloids
-Paracel
+paracel
 paracetamol
 parachute
 parachuted
@@ -36121,7 +36121,7 @@ paragraph
 paragraphing
 paragraphs
 paraguay
-Paraguay
+paraguay
 parakeet
 parakeets
 paralinguistic
@@ -37158,7 +37158,7 @@ perturbations
 perturbed
 perturbing
 peru
-Peru
+peru
 perusal
 peruse
 perused
@@ -37300,7 +37300,7 @@ philatelic
 philatelists
 philately
 philharmonic
-Philippines
+philippines
 philistine
 philological
 philologist
@@ -37708,7 +37708,7 @@ piston
 pistons
 pit
 pitbull
-Pitcairn
+pitcairn
 pitch
 pitchdark
 pitched
@@ -38176,7 +38176,7 @@ pokes
 poking
 poky
 poland
-Poland
+poland
 polar
 polarisation
 polarisations
@@ -38499,7 +38499,7 @@ portraying
 portrays
 ports
 portugal
-Portugal
+portugal
 pose
 posed
 poseidon
@@ -40028,7 +40028,7 @@ puddles
 puerile
 puerility
 puerperal
-Puerto
+puerto
 puff
 puffballs
 puffed
@@ -40340,7 +40340,7 @@ pyroxenes
 python
 pythons
 qatar
-Qatar
+qatar
 qua
 quack
 quacked
@@ -43293,7 +43293,7 @@ reunification
 reunified
 reunify
 reunion
-Reunion
+reunion
 reunions
 reunite
 reunited
@@ -43884,7 +43884,7 @@ romanced
 romancer
 romances
 romancing
-Romania
+romania
 romans
 romantic
 romantically
@@ -44235,7 +44235,7 @@ rusk
 rusks
 russet
 russia
-Russia
+russia
 russian
 rust
 rusted
@@ -44266,7 +44266,7 @@ ruthlessness
 ruts
 rutted
 rwanda
-Rwanda
+rwanda
 rye
 sabbat
 sabbath
@@ -44486,7 +44486,7 @@ same
 sameness
 samizdat
 samoa
-Samoa
+samoa
 samosas
 samovar
 sampan
@@ -44563,7 +44563,7 @@ sank
 sanserif
 sanskrit
 santiago
-Sao
+sao
 sap
 sapient
 sapling
@@ -45591,7 +45591,7 @@ senders
 sending
 sends
 senegal
-Senegal
+senegal
 senhor
 senhors
 senile
@@ -45710,7 +45710,7 @@ seraphic
 seraphically
 seraphim
 seraphs
-Serbia
+serbia
 serenade
 serenader
 serenades
@@ -45870,7 +45870,7 @@ sexualities
 sexuality
 sexually
 sexy
-Seychelles
+seychelles
 shabbier
 shabbiest
 shabbily
@@ -46516,7 +46516,7 @@ siege
 sieges
 sienna
 sierra
-Sierra
+sierra
 siesta
 siestas
 sieve
@@ -46708,7 +46708,7 @@ sinfulness
 sing
 singable
 singalong
-Singapore
+singapore
 singe
 singed
 singeing
@@ -47225,9 +47225,9 @@ slough
 sloughed
 sloughing
 slovak
-Slovakia
+slovakia
 slovenia
-Slovenia
+slovenia
 slovenliness
 slovenly
 slow
@@ -47791,7 +47791,7 @@ solo
 soloing
 soloist
 soloists
-Solomon
+solomon
 solstice
 solstices
 solubility
@@ -47813,7 +47813,7 @@ solving
 soma
 somali
 somalia
-Somalia
+somalia
 somas
 somatic
 sombre
@@ -48040,7 +48040,7 @@ spades
 spadework
 spaghetti
 spain
-Spain
+spain
 spam
 span
 spandrels
@@ -48521,7 +48521,7 @@ spraining
 sprains
 sprang
 sprat
-Spratly
+spratly
 sprats
 sprawl
 sprawled
@@ -48713,7 +48713,7 @@ squirt
 squirted
 squirting
 squirts
-SriLanka
+srilanka
 srilanka
 stab
 stabbed
@@ -50076,7 +50076,7 @@ sucrose
 suction
 sud
 sudan
-Sudan
+sudan
 sudden
 suddenly
 suddenness
@@ -50498,7 +50498,7 @@ surges
 surgical
 surgically
 surging
-Suriname
+suriname
 surliest
 surlily
 surliness
@@ -50599,7 +50599,7 @@ sustenance
 suture
 sutures
 suzerainty
-Svalbard
+svalbard
 swab
 swabbed
 swabbing
@@ -50664,7 +50664,7 @@ swayed
 swaying
 sways
 swazi
-Swaziland
+swaziland
 swazis
 swear
 swearer
@@ -50690,7 +50690,7 @@ sweatshops
 sweaty
 swede
 sweden
-Sweden
+sweden
 swedish
 sweep
 sweepable
@@ -50791,7 +50791,7 @@ switcher
 switches
 switchgear
 switching
-Switzerland
+switzerland
 swivel
 swivelled
 swivelling
@@ -50955,7 +50955,7 @@ syphoned
 syphoning
 syphons
 syria
-Syria
+syria
 syrian
 syringe
 syringes
@@ -51074,8 +51074,8 @@ tainting
 taints
 taipei
 taiwan
-Taiwan
-Tajikistan
+taiwan
+tajikistan
 take
 takeable
 takeaway
@@ -51191,7 +51191,7 @@ tantamount
 tantrum
 tantrums
 tanzania
-Tanzania
+tanzania
 tap
 tapas
 tapdance
@@ -51802,7 +51802,7 @@ texture
 textured
 textures
 thai
-Thailand
+thailand
 thalamus
 thalidomide
 thallium
@@ -52317,7 +52317,7 @@ timidity
 timidly
 timing
 timings
-Timor-Leste
+timor-leste
 tin
 tincan
 tincture
@@ -52479,7 +52479,7 @@ toggled
 toggles
 toggling
 togo
-Togo
+togo
 togs
 toil
 toiled
@@ -52494,7 +52494,7 @@ toiling
 toils
 toitoi
 tokamak
-Tokelau
+tokelau
 token
 tokenism
 tokenistic
@@ -52552,7 +52552,7 @@ toner
 toners
 tones
 tonga
-Tonga
+tonga
 tongs
 tongue
 tongueincheek
@@ -53422,7 +53422,7 @@ trombone
 trombones
 trombonist
 trombonists
-Tromelin
+tromelin
 troop
 trooped
 trooper
@@ -53638,7 +53638,7 @@ tunics
 tuning
 tunings
 tunisia
-Tunisia
+tunisia
 tunisian
 tunnel
 tunnelled
@@ -53674,12 +53674,12 @@ turgidly
 turin
 turk
 turkey
-Turkey
+turkey
 turkeys
 turkish
-Turkmenistan
+turkmenistan
 turks
-Turks
+turks
 turmeric
 turmoil
 turmoils
@@ -53736,7 +53736,7 @@ tutorials
 tutoring
 tutors
 tutu
-Tuvalu
+tuvalu
 tuxedo
 twain
 twang
@@ -53884,7 +53884,7 @@ udder
 udders
 ufo
 uganda
-Uganda
+uganda
 ugandan
 uglier
 ugliest
@@ -53894,7 +53894,7 @@ ugly
 uhuh
 uke
 ukraine
-Ukraine
+ukraine
 ukulele
 ukuleles
 ulcer
@@ -55732,7 +55732,7 @@ urologist
 ursine
 urticaria
 uruguay
-Uruguay
+uruguay
 us
 usability
 usable
@@ -55803,7 +55803,7 @@ utters
 uturns
 uvula
 uvular
-Uzbekistan
+uzbekistan
 vacancies
 vacancy
 vacant
@@ -55925,7 +55925,7 @@ vanquished
 vanquishing
 vans
 vantage
-Vanuatu
+vanuatu
 vapid
 vaporisation
 vaporise
@@ -56061,7 +56061,7 @@ venerating
 veneration
 venereal
 venetian
-Venezuela
+venezuela
 vengeance
 vengeful
 vengefully
@@ -56297,7 +56297,7 @@ vied
 vienna
 vier
 vies
-Vietnam
+vietnam
 view
 viewable
 viewed
@@ -56737,7 +56737,7 @@ wallets
 wallflower
 wallflowers
 walling
-Wallis
+wallis
 wallop
 wallow
 wallowed
@@ -58287,7 +58287,7 @@ yelping
 yelpings
 yelps
 yemen
-Yemen
+yemen
 yen
 yens
 yeoman
@@ -58368,7 +58368,7 @@ zag
 zaire
 zambezi
 zambia
-Zambia
+zambia
 zambian
 zambians
 zaniest
@@ -58414,7 +58414,7 @@ zigzags
 zillion
 zillions
 zimbabwe
-Zimbabwe
+zimbabwe
 zinc
 zion
 zionism
