@@ -7,12 +7,21 @@
 
 using namespace std;
 
-void loadDictionary();
-
 int main(int argc, char* argv[]){
-	loadDictionary();
-	
-	// hashDictionary.printDictionary();
+	MySpellCheckDictionary hashDictionary;
+
+	FILE * in;
+	in = fopen("words.txt", "r");
+
+	while(!feof(in)){
+		char * temp;
+		//Discovered that this is throwing 'std::bad_alloc' and 'Segmentation fault'
+		fscanf(in, "%s", temp); 
+		string str(temp);
+		hashDictionary.addToDictionary(str);
+	}
+
+	hashDictionary.printDictionary();
 	
 	// if(argc > 1){
 		// FILE * fileToSpellCheck;
@@ -38,20 +47,4 @@ int main(int argc, char* argv[]){
 	
 	
 	
-}
-
-void loadDictionary(){
-	MySpellCheckDictionary hashDictionary;
-
-	FILE * in;
-	in = fopen("words.txt", "r");
-
-	while(!feof(in)){
-		char * temp;
-		fscanf(in, "%s", temp); //Discovered that this is throwing 'std::bad_alloc'
-		string str(temp);
-		hashDictionary.addToDictionary(str);
-	}
-
-	fclose(in);
 }
