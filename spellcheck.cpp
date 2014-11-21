@@ -14,8 +14,7 @@ int main(int argc, char* argv[]){
 	in = fopen("words.txt", "r");
 
 	while(!feof(in)){
-		char * temp;
-		//Discovered that this is throwing 'std::bad_alloc' and 'Segmentation fault'
+		char *temp = new char[65000];
 		fscanf(in, "%s", temp); 
 		string str(temp);
 		hashDictionary.addToDictionary(str);

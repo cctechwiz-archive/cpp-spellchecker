@@ -30,7 +30,6 @@ class MySpellCheckDictionary{
 
 
 void MySpellCheckDictionary::addToDictionary(string s){
-    //HOW DO YOU POPULATE AN UNORDERED SET
     words.insert(s);
 }
 
